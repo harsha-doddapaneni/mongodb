@@ -1,0 +1,3 @@
+deployment:
+  imageURL: 932478401603.dkr.ecr.us-east-1.amazonaws.com/roboshop/dev/mangodb
+  imageVersion: v1.0.2
